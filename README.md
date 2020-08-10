@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Hello!
+
+I'm still getting my profile set up. 
 
 <!--
 **r-a-jones/r-a-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
