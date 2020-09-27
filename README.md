@@ -3,7 +3,7 @@
 I'm still getting my profile set up.
 - I’m currently working on an iOS app. Target release date: ~ November 2020.
 
-##### Games I have made that are publically available:
+##### Games I have made that are publicly available:
 [Trophy Traveller](https://apps.apple.com/gb/app/trophy-traveller/id1436052117) (2018) for iOS.
 
 ###### (These aren't under my name yet; I'm under 18.)
