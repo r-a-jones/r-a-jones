@@ -1,7 +1,8 @@
 #### Hello!
 
 I'm still getting my profile set up.
-- I’m currently working on an iOS app. Target release date: ~ November 2020.
+
+My latest iOS app, Perpegtual, will come out soon!
 
 ##### Games I have made that are publicly available:
 [Trophy Traveller](https://apps.apple.com/gb/app/trophy-traveller/id1436052117) (2018) for iOS.
