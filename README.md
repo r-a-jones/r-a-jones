@@ -2,9 +2,10 @@
 
 I'm still getting my profile set up.
 
-My latest iOS app, Perpegtual, will come out soon!
 
 ##### Games I have made that are publicly available:
+Perpegtual [appearance on app store pending] (2020) for iOS.
+
 [Trophy Traveller](https://apps.apple.com/gb/app/trophy-traveller/id1436052117) (2018) for iOS.
 
 ###### (These aren't under my name yet; I'm under 18.)
