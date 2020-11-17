@@ -4,7 +4,7 @@ I'm still getting my profile set up.
 
 
 ##### Games I have made that are publicly available:
-Perpegtual [appearance on app store pending] (2020) for iOS.
+[Perpegtual](https://apps.apple.com/gb/app/perpegtual/id1539296907) (2020) for iOS.
 
 [Trophy Traveller](https://apps.apple.com/gb/app/trophy-traveller/id1436052117) (2018) for iOS.
 
