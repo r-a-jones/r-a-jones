@@ -18,8 +18,6 @@ I make iOS games in Swift.
 
 [Trophy Traveller](https://apps.apple.com/gb/app/trophy-traveller/id1436052117) (2018) for iOS.
 
-###### (These aren't under my name yet, getting them changed since I was under 18.)
-
 <!--
 **r-a-jones/r-a-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
