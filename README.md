@@ -4,8 +4,6 @@ I'm still getting my profile set up.
 
 I make iOS games in Swift.
 
-- How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100054014100994) (Hardly used)
-
 ##### Games I have made that are publicly available:
 [Perpegtual](https://apps.apple.com/gb/app/perpegtual/id1539296907) (2020) for iOS.
 
